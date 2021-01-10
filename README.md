@@ -1,6 +1,7 @@
 # VOPV
 
-#
+#ATTENTION
+The way you use this virus and all responsibility lies only with you. Its creator does not bear any responsibility for your actions
 
 # VOPV - 
 This is a virus that will destroy your phone in a few seconds
